@@ -279,3 +279,6 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
