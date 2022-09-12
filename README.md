@@ -49,7 +49,6 @@ endstep0-->
 -->
 
 <details id=1 open>
-### <summary><h2>Step 1: Add headers</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
