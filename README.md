@@ -1,5 +1,5 @@
 <!--
-  <<< Author notes: Header of the course >>>
+  # <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
@@ -10,7 +10,7 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
-  <<< Author notes: Start of the course >>>
+  # <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
   Each step should be wrapped in <details>/<summary>, with an `id` set.
@@ -49,7 +49,6 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Add headers</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -97,7 +96,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 <details id=2>
-<summary><h2>Step 2: Add an image</h2></summary>
+### <summary><h2>Step 2: Add an image</h2></summary>
 
 _Great job adding headers to the file :sparkles:_
 
@@ -130,7 +129,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 -->
 
 <details id=3>
-<summary><h2>Step 3: Add a code example</h2></summary>
+### <summary><h2>Step 3: Add a code example</h2></summary>
 
 _Great job adding an image to the file :tada:_
 
@@ -169,7 +168,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 -->
 
 <details id=4>
-<summary><h2>Step 4: Make a task list</h2></summary>
+### <summary><h2>Step 4: Make a task list</h2></summary>
 
 _Great job adding a code example to the file :partying_face:_
 
@@ -217,7 +216,7 @@ GitHub Actions went ahead and made a branch and a pull request for you. So you'l
 -->
 
 <details id=5>
-<summary><h2>Step 5: Merge your pull request</h2></summary>
+### <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Great job adding a task list to the file :heart:_
 
@@ -236,7 +235,7 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 -->
 
 <details id=X>
-<summary><h2>Finish</h2></summary>
+### <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
 
@@ -274,3 +273,11 @@ Here's a recap of all the tasks you've accomplished in your repository:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+![Srinivas_Gudipudi](https://user-images.githubusercontent.com/113142523/189567857-f6a51788-1d70-4ad1-91d4-203ce701c1a4.JPG)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
